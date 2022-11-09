@@ -8,4 +8,4 @@ As the name suggests, this repository lists the subjects and proposal for correc
 Matrix Tera
 
 # License
-This repo is under the MIT License.
+This repository is under the MIT License.
