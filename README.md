@@ -9,3 +9,5 @@ Matrix Tera
 
 # License
 This repository is under the MIT License.
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
